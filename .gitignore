@@ -1,0 +1,67 @@
+# Arduino and ESP32 specific files
+*.elf
+*.bin
+*.map
+*.lst
+*.hex
+*.eep
+*.lss
+*.sym
+
+# Compiled source
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Temporary files
+*~
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+*.DS_Store
+Thumbs.db
+
+# IDE specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Build artifacts
+build/
+dist/
+out/
+
+# Dependencies and libraries (don't commit libraries)
+libraries/
+packages/
+
+# Test and development files
+test/
+tests/
+*.test
+
+# Audio and data files (recordings)
+*.wav
+*.mp3
+*.pcm
+recordings/
+
+# SD card content simulation
+sdcard/
+
+# Log files
+*.log
+
+# Platform specific
+.platformio/
+.pio/
+
+# Arduino IDE specific
+*.fqbn
+sketch.json
