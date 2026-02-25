@@ -1,0 +1,1 @@
+c:\Users\91964\Documents\Arduino\esp32cam\WifiCam.hpp

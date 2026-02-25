@@ -1,0 +1,20 @@
+{
+    "name": "R30X-Fingerprint-Sensor-Library",
+    "keywords": "r307,r303,fingerprint,scanner,sensor,r30x,spi,optical,biometric,security",
+    "description": "Arduino library for interfacing R30X series optical fingerprint scanners.",
+    "repository":
+    {
+        "type": "git",
+        "url": "https://github.com/vishnumaiea/R30X-Fingerprint-Sensor-Library.git"
+    },
+    "authors":
+    {
+        "name": "Vishnu M Aiea",
+        "url": "https://github.com/vishnumaiea",
+        "maintainer": true
+    },
+    "version": "1.2.0",
+    "license": "MIT",
+    "frameworks": "arduino",
+    "platforms": "*"
+}
